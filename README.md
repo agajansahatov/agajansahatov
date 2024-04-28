@@ -1,4 +1,4 @@
-# Hi, Agajan Sahatov👋!
+# Hi, I am Agajan Sahatov👋!
 
 <!--
 **agajansahatov/agajansahatov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
