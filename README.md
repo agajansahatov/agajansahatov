@@ -69,12 +69,13 @@ Here are some ideas to get you started:
 
 ## ⭐ GitHub Stats
 
-<div align="center" style="margin-bottom: 3px;" >
+<div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agajansahatov&langs_count=10&hide_border=true&layout=compact" align="center" height="250px"/>
+    <br />
     <img src="https://github-readme-stats.vercel.app/api?username=agajansahatov&show_icons=true&count_private=true&hide_border=true" align="center" height="250px"/>
+    <br />
+    <div align="center"><img alt="Agajan Sahatov's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=agajansahatov&count_private=true&line=F85D7F&point=FFFFFF&hide_border=true&bg_color=71dc83&color=000000" /></div>
 </div>
-
-<div align="center"><img alt="Agajan Sahatov's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=agajansahatov&count_private=true&line=F85D7F&point=FFFFFF&hide_border=true&bg_color=71dc83&color=000000" /></div>
 
 ## 💥 Fun fact
 
