@@ -16,11 +16,15 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi there<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">! I'm Agajan Sahatov.</h1>
 
-<p align="center">
-  🚀 Full-stack Web Developer | 🌏 Multilingual Tech Enthusiast | 🎓 Senior Computer Science Student
-</p>
+
 <p align="center">
   <img width="35%" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+</p>
+<p align="center">
+  🎓 Senior Computer Science Student | 🌏 Multilingual Tech Enthusiast | 🚀 Full-stack Web Developer
+</p>
+<p align="center">
+  🏠 Turkmenistan | 📌 China
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=agajansahatov-byte" alt="agajansahatov-byte" /> </p>
 
