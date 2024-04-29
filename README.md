@@ -10,6 +10,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
+  🏠
 - ⚡ Fun fact: ...
 -->
 
@@ -24,7 +25,7 @@ Here are some ideas to get you started:
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=agajansahatov-byte" alt="agajansahatov-byte" /> </p>
 
 ## ⚡ My Skill Set
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agajansahatov&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agajansahatov&langs_count=10&hide_border=true&layout=compact" align="center" /></div>  
 
 ### 🌐 Frontend Development
 <div align="center">  
@@ -64,15 +65,15 @@ Here are some ideas to get you started:
 <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" /></a>  
 </div>  
 
-<br/>  
+## ⭐ GitHub Stats
 
-## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=agajansahatov&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=agajansahatov&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>  
+<div align="center"><img alt="Agajan Sahatov's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=agajansahatov&count_private=true&line=F85D7F&point=FFFFFF&hide_border=true" /></div>
 
-<br/>  
 
-## Fun fact
+
+## 💥 Fun fact
 I once solved the world's oldest question with a single line of JavaScript:
 
 ```javascript
@@ -82,7 +83,7 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 >>> [ '🐔', '🐣', '🐥', '🥚' ]
 ```
 
-## Support Me  
+## 🌱 Support Me  
 <div align="center">
   <a href="https://paypal.me/agajansahatov" target="_blank" style="display: inline-block;">
       <img
@@ -90,10 +91,6 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
           align="center"
       />
   </a>
-</div>
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=agajansahatov&&style=flat-square" align="center" />
 </div>
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Connect with me  
@@ -112,7 +109,10 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 </a>
 <a href="https://www.youtube.com/user/coderplusplus" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>  
+</a>
+<a href="mailto:agajan.st@gmail.com" target="_blank" >
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img>
+</a>
 </div>  
 
 <br/>  
