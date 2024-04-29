@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=agajansahatov-byte" alt="agajansahatov-byte" /> </p>
 
 ## ⚡ My Skill Set
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agajansahatov&langs_count=10&hide_border=true&layout=compact" align="center" /></div>  
 
 ### 🌐 Frontend Development
 <div align="center">  
@@ -67,9 +66,12 @@ Here are some ideas to get you started:
 
 ## ⭐ GitHub Stats
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=agajansahatov&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agajansahatov&langs_count=10&hide_border=true&layout=compact" align="center" />
+    <img src="https://github-readme-stats.vercel.app/api?username=agajansahatov&show_icons=true&count_private=true&hide_border=true" align="center" />
+</div>  
 
-<div align="center"><img alt="Agajan Sahatov's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=agajansahatov&count_private=true&line=F85D7F&point=FFFFFF&hide_border=true" /></div>
+<div align="center"><img alt="Agajan Sahatov's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=agajansahatov&count_private=true&line=F85D7F&point=FFFFFF&hide_border=true&bg_color=71dc83&color=000000" /></div>
 
 
 
